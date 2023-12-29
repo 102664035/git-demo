@@ -13,6 +13,6 @@ hello bjt! hello git!
 hello bjt! hello git!
 hello bjt! hello git!
 hello bjt! hello git!
-hello bjt! hello git! MASTER MERGE add+COMMIT
-hello bjt! hello git! HOT-FIX MERGE
+hello bjt! hello git! add+COMMIT
+hello bjt! hello git! 
 >>>>>>> hot-fix
