@@ -13,5 +13,5 @@ hello bjt! hello git!
 hello bjt! hello git!
 hello bjt! hello git!
 hello bjt! hello git!
-hello bjt! hello git!
+hello bjt! hello git! MASTER MERGE
 hello bjt! hello git!
