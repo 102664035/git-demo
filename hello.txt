@@ -16,4 +16,5 @@ hello bjt! hello git!
 hello bjt! hello git! add+COMMIT
 hello bjt! hello git! 
 12291515
-01021615
+01021615 SSH PULL
+01021620 SSH PUSH
